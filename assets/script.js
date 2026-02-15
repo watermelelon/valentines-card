@@ -1,11 +1,11 @@
 const alternatives = [
     {text:"", images:"./assets/images/1.gif"},
-    {text:"I promise, it will be unforgettable.", images:"./assets/images/2.gif"},
-    {text:"Think again...", images:"./assets/images/3.gif"},
-    {text:"Come on now, say yes!", images:"./assets/images/4.gif"},
+    {text:"Le puedo hacer bailecitos y tirar billetes", images:"./assets/images/2.gif"},
+    {text:"Porfis porfis porfis", images:"./assets/images/3.gif"},
+    {text:"No yaaaa, diga que si", images:"./assets/images/4.gif"},
 ];
 
-const ohyes = {text:"I knew you would accept!", images:"./assets/images/yes.gif"};
+const ohyes = {text:"No se diga más, noche de TFT con mi amorcito!", images:"./assets/images/yes.gif"};
 const title = document.querySelector('.title');
 const text = document.querySelector('.text');
 const cat = document.querySelector('.cat');
